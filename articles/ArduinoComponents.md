@@ -18,7 +18,7 @@
 
 Вид реального устройства:
 
-<img src="../img/ArduinoComponents/ArduinoUnoR3-1.png" alt="Arduino Uno R3" width=30%"/>
+<img src="../img/ArduinoComponents/ArduinoUnoR3-1.png" alt="Arduino Uno R3" width="30%" />
 
 <img src="../img/ArduinoComponents/ArduinoUnoR3-2.png" alt="Arduino Uno R3" width="30%"/>
 
