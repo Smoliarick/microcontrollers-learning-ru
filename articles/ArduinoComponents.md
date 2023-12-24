@@ -18,9 +18,9 @@
 
 Вид реального устройства:
 
-<img src="../img/ArduinoComponents/ArduinoUnoR3-1.png" alt="Arduino Uno R3" width="50%"/>
+<img src="../img/ArduinoComponents/ArduinoUnoR3-1.png" alt="Arduino Uno R3" width=30%"/>
 
-<img src="../img/ArduinoComponents/ArduinoUnoR3-2.png" alt="Arduino Uno R3" width="50%"/>
+<img src="../img/ArduinoComponents/ArduinoUnoR3-2.png" alt="Arduino Uno R3" width="30%"/>
 
 Вид на схеме:
 
@@ -57,7 +57,7 @@
 
 Вид реальной макетной платы:
 
-<img src="../img/ArduinoComponents/Breadboard-Half.png" alt=" Макетная плата - Breadboard Half"/>
+<img src="../img/ArduinoComponents/Breadboard-Half.png" alt="Макетная плата - Breadboard Half" width="30%" />
 
 Вид на схеме:
 
@@ -68,7 +68,7 @@
 
 Вид реального светодиода:
 
-<img src="../img/ArduinoComponents/LED%205mm.png" alt="LED 5 mm"/>
+<img src="../img/ArduinoComponents/LED%205mm.png" alt="LED 5 mm" width="30%" />
 
 Вид на схеме:
 
@@ -89,18 +89,18 @@
 
 Вид реального резистора:
 
-<img src="../img/ArduinoComponents/Resistor-220.png" alt="Резистор 220 Ом"/>
+<img src="../img/ArduinoComponents/Resistor-220.png" alt="Резистор 220 Ом" width="30%" />
 
 Вид на схеме:
 
-<img src="../img/ArduinoComponents/Resistor-220-Schema.png" alt="Резистор 220 Ом - схема"/>
+<img src="../img/ArduinoComponents/Resistor-220-Schema.png" alt="Резистор 220 Ом - схема" width="30%" />
 
 ## Провода и кабели
 ### Провод "папа-папа" - wire "dad-dad"
 
 Вид реального провода:
 
-<img src="../img/ArduinoComponents/Wire-dad-dad.png" alt="Провод папа-папа"/>
+<img src="../img/ArduinoComponents/Wire-dad-dad.png" alt="Провод папа-папа" width="30%" />
 
 Вид провода на схеме:
 
