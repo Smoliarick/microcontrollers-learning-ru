@@ -12,6 +12,8 @@
   - [Резистор 220 Ом - Resistor 220 Ω](#резистор-220-ом---resistor-220-ω)
 - [Провода и кабели](#провода-и-кабели)
   - [Провод "папа-папа" - wire "dad-dad"](#провод-папа-папа---wire-dad-dad)
+- [Сенсоры](#сенсоры)
+  - [Потенциометер - Potentiometer](#потенциометер---potentiometer)
 
 ## Микроконтроллеры - Microcontrollers
 ### Arduino Uno R3
@@ -105,3 +107,14 @@
 Вид провода на схеме:
 
 <img src="../img/ArduinoComponents/Wire-dad-dad-Schema.png" alt="Провод папа-папа - схема"/>
+
+## Сенсоры
+### Потенциометер - Potentiometer
+
+Вид реального потенциометра:
+
+<img src="../img/ArduinoComponents/Potentiometer.png" alt="Потенциометер" width="20%" />
+
+Вид потенциометра на схеме:
+
+<img src="../img/ArduinoComponents/Potentiomete-Schema.png" alt="Потенциометер - схема" width="10%" />
