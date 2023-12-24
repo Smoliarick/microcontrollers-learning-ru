@@ -75,4 +75,4 @@ avrdude: Version 6.3-20190619
 
 ## Информация
 
-- [Основый работы с Arduino от Амперка](http://wiki.amperka.ru/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82-arduino)
+- [Основы работы с Arduino от Амперка](http://wiki.amperka.ru/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82-arduino)
