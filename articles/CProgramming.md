@@ -1074,7 +1074,7 @@ void ungetch(int);
 #include <stdio.h>
 #include <ctype.h>
 #include "calc.h"
-getop()
+int getop(char[])
 {
   ...
 }
