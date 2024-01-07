@@ -5,7 +5,8 @@
 // getop: извлекает следующий операнд или знак операнда
 int getop(char s[])
 {
-  int i, c;
+  int i;
+  static int c;
 
   while ((s[0] = c = getch()) == ' ' || c == '\t')
     ;
@@ -30,10 +31,6 @@ int getop(char s[])
   }
 
   s[i] = '\0';
-  if (c != EOF)
-  {
-    ungetch(c);
-  }
 
   return NUMBER;
 }

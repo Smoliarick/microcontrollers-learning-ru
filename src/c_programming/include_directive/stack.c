@@ -3,8 +3,8 @@
 
 #define MAXVAL 100 // максимальная глубина стека val
 
-int sp = 0;         // следующая свободная позиция в стеке
-double val[MAXVAL]; // стек операндов
+static int sp = 0;         // следующая свободная позиция в стеке
+static double val[MAXVAL]; // стек операндов
 
 // push: помещает число f в стек операндов
 void push(double f)

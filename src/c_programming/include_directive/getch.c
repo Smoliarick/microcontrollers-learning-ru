@@ -2,8 +2,8 @@
 
 #define BUFSIZE 100
 
-char buf[BUFSIZE]; // буфер для ungetch
-int bufp = 0;      // следующая свободная позиция в buf
+static char buf[BUFSIZE]; // буфер для ungetch
+static int bufp = 0;      // следующая свободная позиция в buf
 
 // getch: извлекает следующий символ из потока ввода
 int getch(void)
